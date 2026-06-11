@@ -38,7 +38,7 @@ Normal / Zamanında: Delays under 15 minutes.
 Operational Risk Indexing: Leverages counting logic variables to track severe performance anomalies, establishing that %75.76 of the delayed flights qualify as a Kritik Rötar.
 
 <p align="center">
-  <img src="<img width="910" height="499" alt="Image" src="https://github.com/user-attachments/assets/3d9891e7-8924-4622-81d8-4f450c1a61ad" />" width="800" alt="Dashboard Overview">
+  <img src="https://github.com/user-attachments/assets/3d9891e7-8924-4622-81d8-4f450c1a61ad" width="800" alt="Dashboard Overview">
 </p>
 
 
@@ -52,10 +52,10 @@ Root-Cause Categorization: Employs precise visual grouping (Donut and Bar visual
 Network & Node Intelligence: Implements matrix views mapping exact departure-to-arrival airport points to isolate systemic, chronic route delays for rapid continuous improvement (Kaizen) initiatives.
 
 <p align="center">
-  <img src="<img width="1327" height="741" alt="Image" src="https://github.com/user-attachments/assets/1bb96ca7-b0a8-49c5-a56a-cdc90191bca1" />" width="800" alt="Dashboard Overview">
+  <img src="https://github.com/user-attachments/assets/1bb96ca7-b0a8-49c5-a56a-cdc90191bca1" width="800" alt="Dashboard Overview">
 </p>
 
 
 <p align="center">
-  <img src="<img width="1317" height="731" alt="Image" src="https://github.com/user-attachments/assets/fb9f2f85-c68a-44e1-9d00-8ea5dd7070f9" />" width="800" alt="Dashboard Overview">
+  <img src="https://github.com/user-attachments/assets/fb9f2f85-c68a-44e1-9d00-8ea5dd7070f9" width="800" alt="Dashboard Overview">
 </p>
